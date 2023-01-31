@@ -1,0 +1,10 @@
+class Bks: #book settings
+    p_name = 'usaco'
+    ch_name = 'ch01'
+    chapter_total = '1'
+    books_media_name='media'
+    prog_name = 'projects'
+    media_sub_name = 'media'
+    src_file_doc = 'aaa'
+    books_path = 'C:\Users\maxyi\Desktop\ubshare\projects'
+    yeof='yeof'
